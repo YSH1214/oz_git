@@ -1,5 +1,5 @@
-## Oz - sample git practice /b
-  project/b
-  commit/n
-  develop/n
-  merge 
+## Oz - sample git practice 
+  project  
+  commit  
+  develop  
+  merge   
